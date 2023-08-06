@@ -1,3 +1,3 @@
 # dailyMath
 A personal website for solving 5 questions daily  
-Staticly hosted at: https://nerdshit.netlify.app/
+Statically  hosted at: https://nerdshit.netlify.app/
